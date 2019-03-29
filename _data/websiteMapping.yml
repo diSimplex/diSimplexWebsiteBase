@@ -1,0 +1,11 @@
+# This file lists the website mappings used by our web liquid tag to 
+# complete website links from relative links.
+#
+# NOTE: do NOT append any final '/'
+#
+wikip: https://en.wikipedia.org
+public: https://perceptisys.co.uk
+local: http://noteserver
+refs: /refs
+blog: /blog
+

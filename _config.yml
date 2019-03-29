@@ -1,0 +1,25 @@
+# Site settings
+title: diSimplicial Reality Lab
+longTitle: diSimplicial Reality Lab
+description: >
+  diSimplicial Reality Lab: Programming Mathematical Analysis one dependent judgement at a time.
+email: stephen@diSimplex.org
+twitter_username: PerceptiSys
+github_username:  diSimplex
+
+# WebSite settings
+baseurl: "" 
+url: "https://diSimplex.org" 
+subSiteDir: ''
+
+# Build settings
+markdown: redcarpet
+highlighter: rouge
+encoding: utf-8
+excerpt_separator: <!--more-->
+
+# TOC generator options
+minItemsToShowToc: 2
+# anchorPrefix: tocAnchor-
+showToggleButton: true
+
