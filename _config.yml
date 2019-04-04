@@ -13,7 +13,7 @@ url: "https://diSimplex.org"
 subSiteDir: ''
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 excerpt_separator: <!--more-->
