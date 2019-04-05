@@ -16,10 +16,11 @@ copy of the License at
     http://creativecommons.org/licenses/by-sa/4.0/
 
 Unless required by applicable law or agreed to in writing, all non-code 
-content distributed under the CC-BY-SA 4.0 License is distributed on an "AS 
-IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
-implied. See the CC-BY_SA 4.0 License linked above for the specific 
-language governing permissions and limitations under the License.
+content distributed under the above CC-BY-SA 4.0 License is distributed 
+on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+either express or implied. See the CC-BY-SA 4.0 License linked above for 
+the specific language governing permissions and limitations under the 
+License.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img 
 alt="Creative Commons Licence" style="border-width:0" 
