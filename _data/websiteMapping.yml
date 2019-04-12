@@ -9,3 +9,4 @@ local: http://noteserver
 refs: /refs
 blog: /blog
 papers: /papers
+code: /code
