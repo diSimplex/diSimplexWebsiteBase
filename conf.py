@@ -34,6 +34,7 @@ BLOG_DESCRIPTION = "A diSimplicial approach to mathematical physics through comp
 # Uncomment the following line in any sub-sites which *are* blogs
 #THIS_IS_A_BLOG_SITE = True
 INDEX_DISPLAY_POST_COUNT = 15
+DISABLE_INDEXES = True
 
 # Uncomment the following line to make use of diSimplex's ServerSideIncludes
 RENDER_DISIMPLEX_THEME_PARTIALS = True
@@ -49,15 +50,7 @@ DEFAULT_LANG = "en"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/about",                                      "About"),
-        ("/wiki",                                       "Wiki"),
-        ("/blog",                                       "Blog"),
-        ("/pictures/gallery",                           "Photos"),
-        ("/refs",                                       "Refs"),
-        ("/accounts/0Records/html/index.html",          "Accounts"),
-        ("/notes",                                      "Notes"),
-        ("https://disimplex.perceptisys.co.uk",         "diSimplex"),
-        ("https://cTime.greyson-gaito.com/toDoSTG",     "ToDo"),
-        ("https://cTime.greyson-gaito.com/timetracker", "Time"),
+        ("/planning",                                   "planning"),
         ("/search",                                     "Search"),
     ),
 }
@@ -66,9 +59,7 @@ CONTENT_FOOTER="""
 <div class="wrapper">
 
   <h2 class="footer-heading">
-    <a href="https://www.poetryfoundation.org/poems/47254/gerontion" target="_blank">
-      A dull head among windy spaces
-    </a>
+    A diSimplicial approach to mathematical physics through computation.
   </h2>
 
   <div class="footer-col-wrapper">
@@ -130,7 +121,7 @@ CONTENT_FOOTER="""
     </div>
 
     <div class="footer-col  footer-col-3">
-      <p class="text">A dull head provides a private place to explore the exposition of a mathematical theory of Reality.</p>
+      <p class="text">A diSimplicial approach to mathematical physics through computation.</p>
     </div>
   </div>
 
