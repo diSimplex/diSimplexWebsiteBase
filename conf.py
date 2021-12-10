@@ -67,7 +67,7 @@ CONTENT_FOOTER="""
       <ul class="contact-list">
         <li><a href="https://perceptisys.co.uk/" target="_blank">RealityLab</a></li>
         <li><a href="mailto:stephen@perceptisys.co.uk">stephen@perceptisys.co.uk</a></li>
-        <li><a href="/poweredby">Powered By</a></li>
+        <li><a href="/poweredby.html" target="_blank">Powered By</a></li>
       </ul>
     </div>
 

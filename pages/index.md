@@ -2,4 +2,4 @@
 title: diSimplicial
 ---
 
-TBD
+PROVE: [P =/= NP](/planning/themes/pnenp.html)
